@@ -113,9 +113,6 @@
 - **BS in Computer Science** (In Progress)  
   University of Haripur, Pakistan
 
-- **Intermediate in Computer Science** (2022-2023)  
-  IMBC H-9 Islamabad, Pakistan
-
 ---
 
 ## 📫 Connect with Me
