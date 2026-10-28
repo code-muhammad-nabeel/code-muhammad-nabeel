@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm Muhammad Nabeel</h1>
+<h1 align="center">👋 Hi, I'm Muhammad Nabeel Yousafzai</h1>
 <h3 align="center">Full Stack Developer & Infrastructure Engineer from Pakistan</h3>
 
 <p align="center">
